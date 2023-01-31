@@ -1,0 +1,22 @@
+body{
+  background-color: bisque;
+  margin-left: 5%;
+}
+.sty{
+  text-align: left;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+
+}
+.efe{
+  text-align: center;
+  font-size: 50px;
+  font-style: inherit;
+
+}
+.wwe{
+  text-align: left;
+  margin-left: 5%;
+  font-size: 30;
+
+}
